@@ -5,7 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 export default defineConfig({
   // GitHub Pages serves project sites below /<repository-name>/.
   // Keep this as /asha-setu/ unless you rename the GitHub repository.
-  base: '/asha-setu/',
+  base: '/Asha-setu-2.0/',
   plugins: [
     react(),
     VitePWA({
